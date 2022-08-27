@@ -1,0 +1,24 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background: #fafbfc;
+    box-shadow: 0px 0px 20px rgba(56, 71, 109, 0.03);
+    padding: 0;
+    border-bottom: 1px solid #e6e6e6;
+  
+    img {
+      border-right: 1px solid #e6e6e6;
+      padding: 20px;
+    }
+  
+    h1 {
+      margin: 35px 30px;
+      font-weight: 500;
+      font-size: 24px;
+      line-height: 28px;
+  
+      color: #091e42;
+    }
+  }
